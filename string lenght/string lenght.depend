@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697388589 source:f:\embedded systems diploma\unit 2\lec 4\lab\string lenght\main.c
+	<stdio.h>
+	<stdlib.h>
+
