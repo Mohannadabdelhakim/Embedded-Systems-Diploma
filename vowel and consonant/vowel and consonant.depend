@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696163869 source:f:\embedded systems diploma\unit 2\lec 3\assignments\lecture 1\even odd\vowel and consonant\main.c
+	<stdio.h>
+	<stdlib.h>
+
