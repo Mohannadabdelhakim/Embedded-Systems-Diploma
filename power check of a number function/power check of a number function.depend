@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698413869 source:f:\embedded systems diploma\unit 2\lec 5\assignment\power check of a number function\main.c
+	<stdio.h>
+	<stdlib.h>
+
