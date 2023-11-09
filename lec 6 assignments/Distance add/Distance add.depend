@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699526547 source:f:\embedded systems diploma\unit 2\lec 6\lab\distance add\main.c
+	<stdio.h>
+	<stdlib.h>
+
