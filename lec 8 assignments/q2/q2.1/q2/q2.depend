@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700665046 source:f:\embedded systems diploma\unit 2\lec 8\lec 8 assignments\q2.1\q2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
