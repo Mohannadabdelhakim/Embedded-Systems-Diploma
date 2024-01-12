@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1704039708 source:f:\embedded systems diploma\unit 4\buffers and linked list\fifo buffer 2\main.c
+	"fifo.h"
+
+1704039827 f:\embedded systems diploma\unit 4\buffers and linked list\fifo buffer 2\fifo.h
+	"stdio.h"
+	"stdint.h"
+
